@@ -1,4 +1,4 @@
 responsive-carousel-jquery
 ==========================
 
-<p>Docs &amp; example at <a href="http://codepen.io/clearwavedesigns/pen/uBCvD">http://codepen.io/clearwavedesigns/pen/uBCvD</a>.</p>
+<p>Docs &amp; example at <a href="http://clearwavedesigns.com/code/plugins/">http://clearwavedesigns.com/code/plugins/</a>.</p>
